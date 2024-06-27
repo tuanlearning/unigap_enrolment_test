@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "name": "Employee 1",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Employee 2",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 3,
+        "name": "Employee 3",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 4,
+        "name": "Employee 4",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 5,
+        "name": "Employee 5",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 6,
+        "name": "Employee 6",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 7,
+        "name": "Employee 7",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 8,
+        "name": "Employee 8",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 9,
+        "name": "Employee 9",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 10,
+        "name": "Employee 10",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 11,
+        "name": "Employee 11",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 12,
+        "name": "Employee 12",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 13,
+        "name": "Employee 13",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 14,
+        "name": "Employee 14",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 15,
+        "name": "Employee 15",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 16,
+        "name": "Employee 16",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 17,
+        "name": "Employee 17",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 18,
+        "name": "Employee 18",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 19,
+        "name": "Employee 19",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 20,
+        "name": "Employee 20",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 21,
+        "name": "Employee 21",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 22,
+        "name": "Employee 22",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 23,
+        "name": "Employee 23",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 24,
+        "name": "Employee 24",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 25,
+        "name": "Employee 25",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 26,
+        "name": "Employee 26",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 27,
+        "name": "Employee 27",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 28,
+        "name": "Employee 28",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 29,
+        "name": "Employee 29",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 30,
+        "name": "Employee 30",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 31,
+        "name": "Employee 31",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 32,
+        "name": "Employee 32",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 33,
+        "name": "Employee 33",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 34,
+        "name": "Employee 34",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 35,
+        "name": "Employee 35",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 36,
+        "name": "Employee 36",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 37,
+        "name": "Employee 37",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 38,
+        "name": "Employee 38",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 39,
+        "name": "Employee 39",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 40,
+        "name": "Employee 40",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 41,
+        "name": "Employee 41",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    },
+    {
+        "id": 42,
+        "name": "Employee 42",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2024-01-01"
+    }
+]

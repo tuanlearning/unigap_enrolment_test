@@ -1,0 +1,4 @@
+#Ignore environment folder
+unigap/
+#Ignore .ipynb files
+*.ipynb
